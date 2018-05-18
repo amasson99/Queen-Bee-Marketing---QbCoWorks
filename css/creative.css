@@ -29,6 +29,8 @@ a:hover {
   color: #fcbd33;
 }
 
+.object-fit_contain { object-fit: contain }
+
 h1,
 h2,
 h3,
