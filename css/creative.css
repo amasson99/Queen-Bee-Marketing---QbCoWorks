@@ -429,3 +429,10 @@ header.masthead h1 {
 .col-lg-6.my-auto.showcase-text {
     background-color: gold;
 }
+
+.w-100 {
+    width: 50%!important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+}
