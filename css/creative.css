@@ -436,3 +436,19 @@ header.masthead h1 {
     margin-right: auto;
     margin-bottom: 5%;
 }
+
+.carousel-indicators li {
+    position: relative;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 3px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: gold;
+}
+.carousel-indicators .active {
+    background-color: black;
+}
